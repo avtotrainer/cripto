@@ -1,5 +1,5 @@
 # Site settings
-title:          კრიპტოვალიუტა
+title:          ᲙᲠᲘᲞᲢᲝᲕᲐᲚᲘᲣᲢᲐ
 description:    "კრიპტოვალიუტასათან დაკავშირებული თემები"
 baseurl:
 url:
@@ -12,7 +12,7 @@ google_analytics:
 
 # Author
 author:
-  name:         ავთო ფანგანი
+  name:         ᲐᲕᲗᲝ ᲤᲐᲜᲒᲐᲜᲘ
   url:          https:/blog.din.ge
   email:        blog@din.ge
 
